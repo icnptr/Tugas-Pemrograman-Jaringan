@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tugas3Blocking/BlockingServer.iml" filepath="$PROJECT_DIR$/Tugas3Blocking/BlockingServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tugas_PemogramanJaringan.iml" filepath="$PROJECT_DIR$/Tugas_PemogramanJaringan.iml" />
     </modules>
   </component>
