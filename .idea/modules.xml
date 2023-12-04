@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Tugas3Blocking/BlockingServer.iml" filepath="$PROJECT_DIR$/Tugas3Blocking/BlockingServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tugas1ServerClient/Tugas1ServerClient.iml" filepath="$PROJECT_DIR$/Tugas1ServerClient/Tugas1ServerClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tugas2NonBlocking/Tugas2NonBlocking.iml" filepath="$PROJECT_DIR$/Tugas2NonBlocking/Tugas2NonBlocking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas3Blocking/Tugas3Blocking.iml" filepath="$PROJECT_DIR$/Tugas3Blocking/Tugas3Blocking.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tugas2NonBlocking/Tugas3StreamUCP/Tugas3StreamUCP.iml" filepath="$PROJECT_DIR$/Tugas2NonBlocking/Tugas3StreamUCP/Tugas3StreamUCP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tugas4Stream/Tugas4Stream.iml" filepath="$PROJECT_DIR$/Tugas4Stream/Tugas4Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas4Stream/Tugas5Datagram/Tugas5Datagram.iml" filepath="$PROJECT_DIR$/Tugas4Stream/Tugas5Datagram/Tugas5Datagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas5DatagramUDP/Tugas5DatagramUDP.iml" filepath="$PROJECT_DIR$/Tugas5DatagramUDP/Tugas5DatagramUDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tugas_PemogramanJaringan.iml" filepath="$PROJECT_DIR$/Tugas_PemogramanJaringan.iml" />
     </modules>
   </component>
